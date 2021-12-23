@@ -1,0 +1,2 @@
+label-studio==1.3
+label-studio-ml==1.0.3
